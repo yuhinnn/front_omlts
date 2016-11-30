@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
   <title>オモロタス</title>
- <meta name="keywords" content="オモロタス,オモロタスproduction,オモロタスプロダクション,omltsproduction,omlts,おもろたす,
+ <meta name="keywords" content="オモロタス,オモロタスproduction,オモロタスプロダクション,omltsproduction,omlts,omorotasu,おもろたす,
 あべこべ共和国,あべこべ,abekobe,あべこべリパブリック">
  <meta name="description" content="オモロタスは、アドルをプロデュースします。オモロタスは楽しいアイドルを世界に発信します。あべこべ共和国はオモロタスが
 　プロデュースする後人組です。オモロタスはomltsとかきます。オモロタスはアイドルを募集しています！">
