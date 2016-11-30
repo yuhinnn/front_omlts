@@ -52,8 +52,30 @@ body{
     margin-right:auto;
     margin-left:auto;
     padding-top:30px;
-
-    
+}
+.twitter1{
+    width:5%;
+    position: absolute;
+    top:440px;
+    margin-left:540px;
+}
+.twitter2{
+    width:5%;
+    position: absolute;
+    top:1000px;
+    margin-left:370px;
+}
+.twitter3{
+    width:5%;
+    position: absolute;
+    top:1200px;
+    margin-left:620px;
+}
+.twitter4{
+    width:5%;
+    position: absolute;
+    top:1630px;
+    margin-left:300px;
 }
 .about{
     position:absolute;
@@ -440,6 +462,10 @@ footer{
    <div class="relative">
     <img class="main" src="img/omlts_img_pc.jpg">
     <p class="absolute gmail">
+    <a href="http://twitter.com/fujisaki_omlts"><img class="twitter1" src="img/twitter.png"></a>
+    <a href="http://twitter.com/m_hiroshi_omlts"><img class="twitter2" src="img/twitter.png"></a>
+    <a href="http://twitter.com/birobirokun"><img class="twitter3" src="img/twitter.png"></a>
+    <a href="http://twitter.com/Nonchan_tmby"><img class="twitter4" src="img/twitter.png"></a>
     <a href="mailto:omlts.abekobe@gmail.com?subject=件名&amp;bodyi=本文">omlts.abekobe@gmail.com</a>
     </p>
     <p id="smoothplay1" class="smooth1">.</p>
@@ -450,6 +476,33 @@ footer{
     <p id="smoothplay1" class="about absolute">a</p>
     <p id="smoothplay2" class="produce absolute">b</p>
 　</div>
+<h1>オモロタス<h1>
+<h1>オモロタス<h1>
+<h1>オモロタス<h1>
+<h1>オモロタス<h1>
+<h1>オモロタス<h1>
+<h1>オモロタス<h1>
+<h1>オモロタス<h1>
+<h1>omlts<h1>
+<h1>omlts<h1>
+<h1>omlts<h1>
+<h1>omlts<h1>
+<h1>omlts<h1>
+<h1>omlts<h1>
+<h1>omlts<h1>
+<h1>omlts<h1>
+<h1>omlts<h1>
+<h1>omlts<h1>
+<h1>omorotasu<h1>
+<h1>omorotasu<h1>
+<h1>omorotasu<h1>
+<h1>omorotasu<h1>
+<h1>omorotasu<h1>
+<h1>omorotasu<h1>
+<h1>omorotasu<h1>
+<h1>omorotasu<h1>
+<h1>omorotasu<h1>
+<h1>omorotasu<h1>
 --!>
 
     <a href="#smoothplay5"><img class="page_top" src="img/page.png"></a>
