@@ -77,6 +77,13 @@ a:hover {
 .header-left a{
   color:white;
 }
+.about_page{
+padding-top:20px;
+width:100%;
+ 
+}
+
+
 footer{
   border-top:1px solid #777777;
   padding-top:10px;
@@ -323,16 +330,32 @@ footer{
   <header>
     <div class="head-container">
     <div class="header-left">
-    <img class="logo" src="img/headlogo.jpg">
+    <a href="index.php"><img class="logo" src="img/headlogo.jpg"></a>
     </div>
     <div class="header-right">
     <ul>
-     <a href=" index2.php "><li><font size="5">About</font></li></a>  
-     <a href="#smoothplay2"><li><font size="5">Produce</font></li></a>  
+     <a href="index2.php"><li><font size="5">About</font></li></a>  
+     <a href="index3.php"><li><font size="5">Produce</font></li></a>  
      <a href="mailto:omlts.abekobe@gmail.com?subject=件名&amp;bodyi=本文"><li><font size="5">Contact</font></li></a>  
-     <a href="#smoothplay4"><li><font size="5">Member</font></li></a>  
+     <a href="index4.php"><li><font size="5">Member</font></li></a>  
    </ul>
     </div>
     </div>
   </header>
+    <img class="about_page" src="img/member.jpg">
+
+<footer>
+
+<div class="fotter-left">
+   <a href="#smoothplay5"><img class="logo" src="img/headlogo.jpg"></a>
+</div>
+
+
+<div id="" class="fotter-right">
+Copyright © 2015-2016 sometimes study All Rights Reserved.
+</div>
+
+</footer>
+
+</body>
 </html>
