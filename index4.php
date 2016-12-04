@@ -6,133 +6,13 @@
 あべこべ共和国,あべこべ,abekobe,あべこべリパブリック">
  <meta name="description" content="オモロタスは、アドルをプロデュースします。オモロタスは楽しいアイドルを世界に発信します。あべこべ共和国はオモロタスが
 　プロデュースする後人組です。オモロタスはomltsとかきます。オモロタスはアイドルを募集しています！">
+
+
   <style type="text/css">
 body{
   margin: 0;
 }
-.relative{
- position:relative;
- margin:0;
- padding:0;
- width:100%;
- text-align:center;
-}
-.absolute {
-    position: absolute;
-    bottom: 2130px;
-    width:100%;
-    text-align:center;
-    font-size:290%;
-    margin:0;
-    padding:0;
-}
-.smooth1{
-    position: absolute;
-    bottom: 4890px;
 
-}
-.smooth2{
-    position: absolute;
-    bottom: 3730px;
-
-}
-.smooth4{
-    position: absolute;
-    bottom: 1985px;
-
-}
-.smooth5{
-    position: absolute;
-    bottom: 6800px;
-
-}
-.page_top{
-   /* padding-top:4550px;*/
-    display:block;
-    margin-right:auto;
-    margin-left:auto;
-    padding-top:30px;
-}
-.twitter1{
-    width:5%;
-    position: absolute;
-    top:440px;
-    margin-left:540px;
-}
-.twitter2{
-    width:5%;
-    position: absolute;
-    top:1000px;
-    margin-left:370px;
-}
-.twitter3{
-    width:5%;
-    position: absolute;
-    top:1200px;
-    margin-left:620px;
-}
-.twitter4{
-    width:5%;
-    position: absolute;
-    top:1630px;
-    margin-left:300px;
-}
-.about{
-    position:absolute;
-    right: 200px;
-    bottom: 4850px;
-}
-.produce{
-    position:absolute;
-    right: 200px;
-    bottom: 2850px;
-}
-.gmail{
- color:red;
-}
-.gmail:hover{
- color:blue;
-}
-.content{
-height:2800px;
-}
-.aidl{
- width:100%;
- padding-top:20px;
- 
-}
-
-.bosyu{
- width:100%;
- padding-top:20px;
- 
-}
-/*
-.main{
-  background-image:url(img/main.jpg);
-  background-position:center;
-  background-repeat:no-repeat;
-}*/ 
-
-/*
-.main{
-  margin:0 auto;
-  display: block;
-  width:95%;
-}*/ 
-
-
-
-
-.produce{
-  padding-top:9000px;
-}
-
-}
-.logo{
- padding:20px 0px 0px 50px;
-
-}
 a {
   text-decoration: none;
   color: #1f89e2;
@@ -421,6 +301,7 @@ footer{
   border-radius: 0.2cm;
   margin-top:30px;
   text-align: center;
+
 }
 .wrapper-index{
   margin:0 auto;
@@ -438,7 +319,7 @@ footer{
 }
   </style>
 </head>
-<body>
+
   <header>
     <div class="head-container">
     <div class="header-left">
@@ -454,77 +335,4 @@ footer{
     </div>
     </div>
   </header>
-
-
-<img class="aidl" src="img/aidl.jpg">
-  <div class="top-container">
-    <a href="mailto:omlts.abekobe@gmail.com?subject=件名&amp;bodyi=本文" class="btn sinki">Gmail</a>
-    <a href="https://www.facebook.com/omorotasu/" class="btn facebook">facebook</a>
-    <a href="http://twitter.com/omorotasu3" class="btn twitter">twitter</a>
-  </div>
-<img class="bosyu" src="img/bosyu.jpg">
-<!--
-</div>
-   <div class="relative">
-    <img class="main" src="img/omlts_img_pc.jpg">
-    <p class="absolute gmail">
-    <a href="http://twitter.com/fujisaki_omlts"><img class="twitter1" src="img/twitter.png"></a>
-    <a href="http://twitter.com/m_hiroshi_omlts"><img class="twitter2" src="img/twitter.png"></a>
-    <a href="http://twitter.com/birobirokun"><img class="twitter3" src="img/twitter.png"></a>
-    <a href="http://twitter.com/Nonchan_tmby"><img class="twitter4" src="img/twitter.png"></a>
-    <a href="mailto:omlts.abekobe@gmail.com?subject=件名&amp;bodyi=本文">omlts.abekobe@gmail.com</a>
-    </p>
-    <p id="smoothplay1" class="smooth1">.</p>
-    <p id="smoothplay2" class="smooth2">.</p>
-    <p id="smoothplay4" class="smooth4">.</p>
-    <p id="smoothplay5" class="smooth5">f</p>
---!>
-<!--
-    <p id="smoothplay1" class="about absolute">a</p>
-    <p id="smoothplay2" class="produce absolute">b</p>
-　</div>
-<h1>オモロタス<h1>
-<h1>オモロタス<h1>
-<h1>オモロタス<h1>
-<h1>オモロタス<h1>
-<h1>オモロタス<h1>
-<h1>オモロタス<h1>
-<h1>オモロタス<h1>
-<h1>omlts<h1>
-<h1>omlts<h1>
-<h1>omlts<h1>
-<h1>omlts<h1>
-<h1>omlts<h1>
-<h1>omlts<h1>
-<h1>omlts<h1>
-<h1>omlts<h1>
-<h1>omlts<h1>
-<h1>omlts<h1>
-<h1>omorotasu<h1>
-<h1>omorotasu<h1>
-<h1>omorotasu<h1>
-<h1>omorotasu<h1>
-<h1>omorotasu<h1>
-<h1>omorotasu<h1>
-<h1>omorotasu<h1>
-<h1>omorotasu<h1>
-<h1>omorotasu<h1>
-<h1>omorotasu<h1>
---!>
-
-    <a href="#smoothplay5"><img class="page_top" src="img/page.png"></a>
-<footer>
-
-<div class="fotter-left">
-   <a href="#smoothplay5"><img class="logo" src="img/headlogo.jpg"></a>
-</div>
-
-
-<div id="" class="fotter-right">
-Copyright © 2015-2016 sometimes study All Rights Reserved.
-</div>
-
-</footer>
-
-</body>
 </html>
