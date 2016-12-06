@@ -10,19 +10,19 @@ body{
  position:relative;
  margin:0;
  padding:0;
- width:100%;
+ width:1024px;
+ height:632px;
  text-align:center;
 }
 .absolute {
     position: absolute;
-    width:90%;
     bottom:486px;
     left:198px;
-    width:100%;
     text-align:center;
     margin:0;
     padding:0;
 }
+
 .smooth1{
     position: absolute;
     bottom: 4890px;
@@ -49,8 +49,6 @@ body{
     margin-right:auto;
     margin-left:auto;
     padding-top:30px;
-
-    
 }
 .about{
     position:absolute;
@@ -77,12 +75,9 @@ height:2800px;
  
 }
 
-/*
 .main{
-  background-image:url(img/main.jpg);
-  background-position:center;
-  background-repeat:no-repeat;
-}*/ 
+ position:relative;
+}
 
 /*
 .main{
@@ -410,6 +405,7 @@ footer{
   </style>
 </head>
 <body>
+
   <header>
     <div class="head-container">
     <div class="header-left">
@@ -425,7 +421,6 @@ footer{
     </div>
     </div>
   </header>
-
 
 <img class="aidl" src="img/aidl.jpg">
   <div class="top-container">
