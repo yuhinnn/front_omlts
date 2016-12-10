@@ -58,7 +58,7 @@ body{
     font-size:35%;
     position: absolute;
     top:1690px;
-    margin-left:400px;
+    margin-left:395px;
 }
 .twitter2{
     width:5%;
