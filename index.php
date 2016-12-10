@@ -1,7 +1,12 @@
+
 <!DOCTYPE html>
 <html lang="ja">
 <head>
   <title>オモロタス</title>
+ <meta name="keywords" content="オモロタス,オモロタスproduction,オモロタスプロダクション,omltsproduction,omlts,omorotasu,おもろたす,
+あべこべ共和国,あべこべ,abekobe,あべこべリパブリック">
+ <meta name="description" content="オモロタスは、アドルをプロデュースします。オモロタスは楽しいアイドルを世界に発信します。あべこべ共和国はオモロタスが
+　プロデュースする後人組です。オモロタスはomltsとかきます。オモロタスはアイドルを募集しています！">
   <style type="text/css">
 body{
   margin: 0;
@@ -10,19 +15,18 @@ body{
  position:relative;
  margin:0;
  padding:0;
- width:1024px;
- height:632px;
+ width:100%;
  text-align:center;
 }
 .absolute {
     position: absolute;
-    bottom:486px;
-    left:198px;
+    bottom: 2130px;
+    width:100%;
     text-align:center;
+    font-size:290%;
     margin:0;
     padding:0;
 }
-
 .smooth1{
     position: absolute;
     bottom: 4890px;
@@ -50,6 +54,30 @@ body{
     margin-left:auto;
     padding-top:30px;
 }
+.twitter1{
+    font-size:45%;
+    position: absolute;
+    top:1660px;
+    margin-left:424px;
+}
+.twitter2{
+    width:5%;
+    position: absolute;
+    top:1000px;
+    margin-left:370px;
+}
+.twitter3{
+    width:5%;
+    position: absolute;
+    top:1200px;
+    margin-left:620px;
+}
+.twitter4{
+    width:5%;
+    position: absolute;
+    top:1630px;
+    margin-left:300px;
+}
 .about{
     position:absolute;
     right: 200px;
@@ -75,9 +103,12 @@ height:2800px;
  
 }
 
+/*
 .main{
- position:relative;
-}
+  background-image:url(img/main.jpg);
+  background-position:center;
+  background-repeat:no-repeat;
+}*/ 
 
 /*
 .main{
@@ -405,7 +436,6 @@ footer{
   </style>
 </head>
 <body>
-
   <header>
     <div class="head-container">
     <div class="header-left">
@@ -413,14 +443,15 @@ footer{
     </div>
     <div class="header-right">
     <ul>
-     <a href="index2.php"><li><font size="5">About</font></li></a>  
-     <a href="index3.php"><li><font size="5">Produce</font></li></a>  
+     <a href="#smoothplay1"><li><font size="5">About</font></li></a>  
+     <a href="#smoothplay2"><li><font size="5">Produce</font></li></a>  
      <a href="mailto:omlts.abekobe@gmail.com?subject=件名&amp;bodyi=本文"><li><font size="5">Contact</font></li></a>  
-     <a href="index4.php"><li><font size="5">Member</font></li></a>  
+     <a href="#smoothplay4"><li><font size="5">Member</font></li></a>  
    </ul>
     </div>
     </div>
   </header>
+
 
 <img class="aidl" src="img/aidl.jpg">
   <div class="top-container">
@@ -432,6 +463,10 @@ footer{
    <div class="relative">
     <img class="main" src="img/s_bosyu.jpg">
     <p class="absolute gmail">
+    <a class="twitter1">omlts.abekobe@gmail.com</a>
+    <a href="http://twitter.com/m_hiroshi_omlts"></a>
+    <a href="http://twitter.com/birobirokun"></a>
+    <a href="http://twitter.com/Nonchan_tmby"></a>
     <a href="mailto:omlts.abekobe@gmail.com?subject=件名&amp;bodyi=本文">omlts.abekobe@gmail.com</a>
     </p>
     <p id="smoothplay1" class="smooth1">.</p>
@@ -442,6 +477,33 @@ footer{
     <p id="smoothplay1" class="about absolute">a</p>
     <p id="smoothplay2" class="produce absolute">b</p>
 　</div>
+<h1>オモロタス<h1>
+<h1>オモロタス<h1>
+<h1>オモロタス<h1>
+<h1>オモロタス<h1>
+<h1>オモロタス<h1>
+<h1>オモロタス<h1>
+<h1>オモロタス<h1>
+<h1>omlts<h1>
+<h1>omlts<h1>
+<h1>omlts<h1>
+<h1>omlts<h1>
+<h1>omlts<h1>
+<h1>omlts<h1>
+<h1>omlts<h1>
+<h1>omlts<h1>
+<h1>omlts<h1>
+<h1>omlts<h1>
+<h1>omorotasu<h1>
+<h1>omorotasu<h1>
+<h1>omorotasu<h1>
+<h1>omorotasu<h1>
+<h1>omorotasu<h1>
+<h1>omorotasu<h1>
+<h1>omorotasu<h1>
+<h1>omorotasu<h1>
+<h1>omorotasu<h1>
+<h1>omorotasu<h1>
 --!>
 
     <a href="#smoothplay5"><img class="page_top" src="img/page.png"></a>
