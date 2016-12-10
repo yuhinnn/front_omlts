@@ -55,10 +55,10 @@ body{
     padding-top:30px;
 }
 .twitter1{
-    font-size:45%;
+    font-size:35%;
     position: absolute;
-    top:1660px;
-    margin-left:424px;
+    top:1690px;
+    margin-left:400px;
 }
 .twitter2{
     width:5%;
@@ -461,7 +461,7 @@ footer{
   </div>
 </div>
    <div class="relative">
-    <img class="main" src="img/s_bosyu.jpg">
+    <img class="main" src="img/ss_bosyu.jpg">
     <p class="absolute gmail">
     <a class="twitter1">omlts.abekobe@gmail.com</a>
     <a href="http://twitter.com/m_hiroshi_omlts"></a>
