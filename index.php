@@ -55,16 +55,16 @@ body{
     padding-top:30px;
 }
 .gmail_in{
-    font-size:35%;
+    width:3%;
     position: absolute;
-    top:1690px;
-    margin-left:395px;
+    top:1685px;
+    margin-left:450px;
 }
 .twitter_in{
-    font-size:35%;
+    width:3%;
     position: absolute;
-    top:1715px;
-    margin-left:430px;
+    top:1725px;
+    margin-left:449px;
 }
 .twitter3{
     width:5%;
@@ -431,9 +431,7 @@ footer{
   border-radius: 0.2cm;
   margin-top:30px;
   text-align: center;
-
-}
-  </style>
+} </style>
 </head>
 <body>
   <header>
@@ -463,8 +461,8 @@ footer{
    <div class="relative">
     <img class="main" src="img/ss_bosyu.jpg">
     <p class="absolute gmail">
-    <a class="gmail_in" href="mailto:omlts.abekobe@gmail.com?subject=件名&amp;bodyi=本文">omlts.abekobe@gmail.com</a>
-    <a class="twitter_in" href="http://twitter.com/omorotasu3">omorotasu3</a>
+    <a href="mailto:omlts.abekobe@gmail.com?subject=件名&amp;bodyi=本文"><img class="gmail_in" src="img/gmail.png"</a>
+    <a href="http://twitter.com/omorotasu3"><img class="twitter_in" src="img/twitter.png"></a>
     <a href="http://twitter.com/birobirokun"></a>
     <a href="http://twitter.com/Nonchan_tmby"></a>
     <a href="mailto:omlts.abekobe@gmail.com?subject=件名&amp;bodyi=本文">omlts.abekobe@gmail.com</a>
