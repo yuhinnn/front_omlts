@@ -449,6 +449,7 @@ footer{
     </div>
   </header>
 
+<!--
 
 <img class="aidl" src="img/aidl.jpg">
   <div class="top-container">
@@ -470,46 +471,17 @@ footer{
     <p id="smoothplay2" class="smooth2">.</p>
     <p id="smoothplay4" class="smooth4">.</p>
     <p id="smoothplay5" class="smooth5">f</p>
-<!--
-    <p id="smoothplay1" class="about absolute">a</p>
-    <p id="smoothplay2" class="produce absolute">b</p>
-　</div>
-<h1>オモロタス<h1>
-<h1>オモロタス<h1>
-<h1>オモロタス<h1>
-<h1>オモロタス<h1>
-<h1>オモロタス<h1>
-<h1>オモロタス<h1>
-<h1>オモロタス<h1>
-<h1>omlts<h1>
-<h1>omlts<h1>
-<h1>omlts<h1>
-<h1>omlts<h1>
-<h1>omlts<h1>
-<h1>omlts<h1>
-<h1>omlts<h1>
-<h1>omlts<h1>
-<h1>omlts<h1>
-<h1>omlts<h1>
-<h1>omorotasu<h1>
-<h1>omorotasu<h1>
-<h1>omorotasu<h1>
-<h1>omorotasu<h1>
-<h1>omorotasu<h1>
-<h1>omorotasu<h1>
-<h1>omorotasu<h1>
-<h1>omorotasu<h1>
-<h1>omorotasu<h1>
-<h1>omorotasu<h1>
---!>
 
     <a href="#smoothplay5"><img class="page_top" src="img/page.png"></a>
+<h1>
+ただいま改装中です。<br>
+連絡はこちらまで
+    <a href="mailto:omlts.abekobe@gmail.com?subject=件名&amp;bodyi=本文" class="btn sinki">Gmail</a>
 <footer>
 
 <div class="fotter-left">
    <a href="#smoothplay5"><img class="logo" src="img/headlogo.jpg"></a>
 </div>
-
 
 <div id="" class="fotter-right">
 Copyright © 2015-2016 sometimes study All Rights Reserved.
@@ -517,5 +489,11 @@ Copyright © 2015-2016 sometimes study All Rights Reserved.
 
 </footer>
 
+--!>
+<h1>
+ただいま改装中です。<br>
+⬇︎連絡はこちらまで⬇︎<br>
+    <a href="mailto:omlts.abekobe@gmail.com?subject=件名&amp;bodyi=本文" class="btn sinki">Gmail</a>
+<footer>
 </body>
 </html>
