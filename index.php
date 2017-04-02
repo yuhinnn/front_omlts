@@ -440,10 +440,10 @@ footer{
     </div>
     <div class="header-right">
     <ul>
-     <a href="index2.php"><li><font size="5">About</font></li></a>  
-     <a href="index3.php"><li><font size="5">Produce</font></li></a>  
+     <a href="#"><li><font size="5">About</font></li></a>  
+     <a href="#"><li><font size="5">Produce</font></li></a>  
      <a href="mailto:omlts.abekobe@gmail.com?subject=件名&amp;bodyi=本文"><li><font size="5">Contact</font></li></a>  
-     <a href="index4.php"><li><font size="5">Member</font></li></a>  
+     <a href="#"><li><font size="5">Member</font></li></a>  
    </ul>
     </div>
     </div>
